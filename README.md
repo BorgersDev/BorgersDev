@@ -41,7 +41,6 @@ I have also been investing in AI-assisted development as a real productivity mul
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=borgersdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=borgersdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=borgersdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
