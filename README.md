@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borgesdev/)
 
-# 👨‍💻 Arthur Borges
+# 👨🏻‍💻
 
 ### Full Stack Software Developer
 
@@ -45,7 +45,3 @@ I also use AI-assisted development daily with tools like Claude Code and Codex, 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=borgersdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=borgersdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borgesdev/)
