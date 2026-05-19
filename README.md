@@ -1,15 +1,3 @@
-# 👨‍💻 About Me:
-Full Stack Software Developer with 3 years of experience building production systems that serve real users at scale. Currently pursuing a degree in Systems Analysis and Development.<br><br>
-
-I enjoy working across the full stack, from designing APIs and database schemas to building interfaces that feel good to use. I care about maintainable code, automated tests, reliable delivery, and shipping products with confidence.<br><br>
-
-Over the past few years, I have worked on SaaS platforms, high-traffic B2B systems, mobile applications, payment integrations, logistics platforms, digital signature services, financial ERPs, webhooks, and production-ready workflows.<br><br>
-
-I have also been investing in AI-assisted development as a real productivity multiplier, working daily with tools such as Claude Code and Codex, while exploring custom skills, agents, MCP integrations, and reusable development loops to help teams move faster without sacrificing quality.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borgesdev/)
-
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -43,6 +31,10 @@ I have also been investing in AI-assisted development as a real productivity mul
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=borgersdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=borgersdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borgesdev/)
 
 ---
 [![](https://komarev.com/ghpvc/?username=borgersdev&icon=0&color=0)](https://visitcount.itsvg.in)
