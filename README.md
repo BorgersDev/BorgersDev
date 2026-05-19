@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻Software Engineer & Squad leader @cadex
 
-### Full Stack Software Developer
+### Full Stack Developer
 
 Graduated in Systems Analysis and Development.
 
@@ -42,6 +42,6 @@ I also use AI-assisted development daily with tools like Claude Code and Codex, 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 ![](https://streak-stats.demolab.com/?user=borgersdev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=borgersdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
