@@ -1,3 +1,17 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borgesdev/)
+
+# 👨‍💻 Arthur Borges
+
+### Full Stack Software Developer
+
+Graduated in Systems Analysis and Development.
+
+Full Stack Software Developer with 3 years of experience building production systems with React, Node.js, TypeScript, and React Native. I work across the full stack, from APIs and database schemas to interfaces that feel good to use, with a strong focus on maintainable code, automated tests, reliable delivery, and clean abstractions.
+
+My experience includes SaaS platforms, high-traffic B2B systems, mobile apps, payment integrations, logistics platforms, digital signature services, financial ERPs, webhooks, and production-ready workflows.
+
+I also use AI-assisted development daily with tools like Claude Code and Codex, exploring custom skills, agents, MCP integrations, and reusable loops to help teams move faster without sacrificing quality.
+
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -35,6 +49,3 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borgesdev/)
-
----
-[![](https://komarev.com/ghpvc/?username=borgersdev&icon=0&color=0)](https://visitcount.itsvg.in)
