@@ -4,7 +4,7 @@
 
 ### Full Stack Developer
 
-Graduated in Systems Analysis and Development.
+Graduating in Systems Analysis and Development.
 
 Full Stack Software Developer with 3 years of experience building production systems with React, Node.js, TypeScript, and React Native. I work across the full stack, from APIs and database schemas to interfaces that feel good to use, with a strong focus on maintainable code, automated tests, reliable delivery, and clean abstractions.
 
