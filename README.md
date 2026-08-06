@@ -6,7 +6,7 @@
 
 Graduating in Systems Analysis and Development.
 
-Full Stack Software Developer with 3 years of experience building production systems with React, Node.js, TypeScript, and React Native. I work across the full stack, from APIs and database schemas to interfaces that feel good to use, with a strong focus on maintainable code, automated tests, reliable delivery, and clean abstractions.
+Full Stack Software Developer with around 4 years of experience building production systems with React, Node.js, TypeScript, and React Native. I work across the full stack, from APIs and database schemas to interfaces that feel good to use, with a strong focus on maintainable code, automated tests, reliable delivery, and clean abstractions.
 
 My experience includes SaaS platforms, high-traffic B2B systems, mobile apps, payment integrations, logistics platforms, digital signature services, financial ERPs, webhooks, and production-ready workflows.
 
